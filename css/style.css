@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto';
+}
+
+/* Header styles */
+
+.logo-link {
+    font-family: 'Raleway';
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2E2F42;
+}
+.logo-link span {
+    color: #4D5AE5;
+}
+.main-header nav ul {
+    padding: 0;
+}
+.main-header nav ul li {
+    display: inline-block;
+    list-style: none;
+}
+.main-header nav ul li + li {
+    margin-left: 40px;
+}
+.main-header nav ul li a {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #2E2F42;
+}
+.main-header nav ul li a:hover {
+    
+}
